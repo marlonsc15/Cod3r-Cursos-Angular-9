@@ -1,0 +1,21 @@
+.header { 
+    display: flex;
+    
+}
+
+.header img {
+    height: 3em;
+}
+
+.header .title-group {
+    padding-left: 25px;
+}
+
+.header .title-group i {
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.material-icons {
+    vertical-align: middle;
+}
